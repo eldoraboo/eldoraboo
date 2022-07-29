@@ -67,12 +67,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/eldoraboo/eldoraboo/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/eldoraboo/count.svg?"  />
 </div>
