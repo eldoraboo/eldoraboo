@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eldoraboo.github.io/](https://eldoraboo.github.io/)
 
-- 📝 I regularly write articles on [https://eldoraboo.github.io/](https://eldoraboo.github.io/)
+- 📝 View my students' work on [https://github.com/eldorastudents](https://github.com/eldorastudents)
 
 - 💬 Ask me about **front-end dev & data science**
 
