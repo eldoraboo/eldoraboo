@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eldora</h1>
 <h3 align="center">A passionate full-stack developer from Singapore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eldoraboo&label=Profile%20views&color=0e75b6&style=flat" alt="eldoraboo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldoraboo" alt="eldoraboo" /></a> </p>
-
-- 🔭 I’m currently working on [Auto Labeling Pipeline](https://github.com/eldoraboo/auto-labeling)
-
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 👯 I’m looking to collaborate on **Sentiment Analysis**
-
-- 🤝 I’m looking for help with **Back-End Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://eldoraboo.github.io/](https://eldoraboo.github.io/)
 
