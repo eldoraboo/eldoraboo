@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Singapore</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://eldoraboo.github.io/](https://eldoraboo.github.io/)
+- 👨‍💻 All of my projects are available at [https://eldora.me/](https://eldora.me/)
 
 - 📝 View my students' work at [https://github.com/eldorastudents](https://github.com/eldorastudents)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **eldoraboo.mby@gmail.com**
 
-- 📄 Know about my experiences [https://eldoraboo.github.io/](https://eldoraboo.github.io/)
+- 📄 Know about my experiences [https://eldora.me/](https://eldora.me/)
 
 - ⚡ Fun fact **My first language is HTML.**
 
